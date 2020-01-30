@@ -1,0 +1,4 @@
+codebuild-trigger/
+build/
+dist/
+MANIFEST
